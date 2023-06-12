@@ -6,5 +6,5 @@ Individual projects, example code snippets, and internal documents are housed in
 
 ## Respository Guide:
 - **Projects_Hub:** a directory of projects conducted within the lab including signposts to relevant data, code, and documentation
-- **How_to_Guides:** a set of useful code snippets, research guides, open science resources and more
+- **How_to_Guides:** a set of useful code snippets, research guides, open science resources, and more
 - **Lab_Secrets:** contains internal documents relevant to the day to day running of the lab
